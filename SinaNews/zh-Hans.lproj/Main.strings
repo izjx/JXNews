@@ -1,0 +1,168 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "28p-q0-Lst"; */
+"28p-q0-Lst.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3Ex-Uh-upz"; */
+"3Ex-Uh-upz.text" = "Label";
+
+/* Class = "UILabel"; text = "01"; ObjectID = "5xs-qq-iU2"; */
+"5xs-qq-iU2.text" = "01";
+
+/* Class = "UIButton"; normalTitle = " 注册"; ObjectID = "5yJ-gy-SNp"; */
+"5yJ-gy-SNp.normalTitle" = " 注册";
+
+/* Class = "UILabel"; text = "Sina News"; ObjectID = "627-nS-W3u"; */
+"627-nS-W3u.text" = "Sina News";
+
+/* Class = "UILabel"; text = "我的卡包"; ObjectID = "89C-yf-8ha"; */
+"89C-yf-8ha.text" = "我的卡包";
+
+/* Class = "UILabel"; text = "更多设置"; ObjectID = "8h5-gD-Lcp"; */
+"8h5-gD-Lcp.text" = "更多设置";
+
+/* Class = "UILabel"; text = "注册"; ObjectID = "8mq-g8-1Sa"; */
+"8mq-g8-1Sa.text" = "注册";
+
+/* Class = "UILabel"; text = "新浪新闻"; ObjectID = "99c-12-eNs"; */
+"99c-12-eNs.text" = "新浪新闻";
+
+/* Class = "UILabel"; text = "评论"; ObjectID = "9NX-9p-Btb"; */
+"9NX-9p-Btb.text" = "评论";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AqU-4m-0Md"; */
+"AqU-4m-0Md.text" = "Label";
+
+/* Class = "UILabel"; text = "我的卡包"; ObjectID = "B4j-HZ-OpG"; */
+"B4j-HZ-OpG.text" = "我的卡包";
+
+/* Class = "UIButton"; normalTitle = "直播"; ObjectID = "C9o-RM-fBR"; */
+"C9o-RM-fBR.normalTitle" = "直播";
+
+/* Class = "UILabel"; text = "新浪新闻"; ObjectID = "CJa-pa-gE4"; */
+"CJa-pa-gE4.text" = "新浪新闻";
+
+/* Class = "UITabBarItem"; title = "发现"; ObjectID = "CjV-8H-sVg"; */
+"CjV-8H-sVg.title" = "发现";
+
+/* Class = "UITabBarItem"; title = "热门"; ObjectID = "Cz0-Wh-j9S"; */
+"Cz0-Wh-j9S.title" = "热门";
+
+/* Class = "UILabel"; text = "点击“注册按钮”，即表示你同意"; ObjectID = "DUg-A3-zuf"; */
+"DUg-A3-zuf.text" = "点击“注册按钮”，即表示你同意";
+
+/* Class = "UILabel"; text = "TOP"; ObjectID = "EZi-ej-JZC"; */
+"EZi-ej-JZC.text" = "TOP";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HBh-0x-0JX"; */
+"HBh-0x-0JX.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "登录账号"; ObjectID = "Jjg-3p-LmV"; */
+"Jjg-3p-LmV.normalTitle" = "登录账号";
+
+/* Class = "UILabel"; text = "2016/12/16"; ObjectID = "Jwe-ui-dTY"; */
+"Jwe-ui-dTY.text" = "2016/12/16";
+
+/* Class = "UIButton"; normalTitle = "欢迎图"; ObjectID = "LXz-sK-LxP"; */
+"LXz-sK-LxP.normalTitle" = "欢迎图";
+
+/* Class = "UIButton"; normalTitle = "快速注册"; ObjectID = "MMR-Cb-328"; */
+"MMR-Cb-328.normalTitle" = "快速注册";
+
+/* Class = "UITextField"; placeholder = "请输入密码"; ObjectID = "PmR-7j-jgZ"; */
+"PmR-7j-jgZ.placeholder" = "请输入密码";
+
+/* Class = "UILabel"; text = "02"; ObjectID = "Q0c-Cy-f2O"; */
+"Q0c-Cy-f2O.text" = "02";
+
+/* Class = "UIButton"; normalTitle = "忘记密码？"; ObjectID = "Qss-4D-WPh"; */
+"Qss-4D-WPh.normalTitle" = "忘记密码？";
+
+/* Class = "UILabel"; text = "暂无收藏"; ObjectID = "Tcw-oy-4Pp"; */
+"Tcw-oy-4Pp.text" = "暂无收藏";
+
+/* Class = "UILabel"; text = "帮助与反馈"; ObjectID = "Tef-fY-2WW"; */
+"Tef-fY-2WW.text" = "帮助与反馈";
+
+/* Class = "UILabel"; text = "夜间模式"; ObjectID = "Uas-aQ-ZMb"; */
+"Uas-aQ-ZMb.text" = "夜间模式";
+
+/* Class = "UIButton"; normalTitle = "评论"; ObjectID = "VW9-nw-Za2"; */
+"VW9-nw-Za2.normalTitle" = "评论";
+
+/* Class = "UILabel"; text = "热门"; ObjectID = "W2o-ee-gvK"; */
+"W2o-ee-gvK.text" = "热门";
+
+/* Class = "UILabel"; text = "快来留住你在意的点滴"; ObjectID = "XCz-gf-IuJ"; */
+"XCz-gf-IuJ.text" = "快来留住你在意的点滴";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "amL-Vu-zhw"; */
+"amL-Vu-zhw.text" = "Label";
+
+/* Class = "UILabel"; text = "+86"; ObjectID = "f19-sB-4Ak"; */
+"f19-sB-4Ak.text" = "+86";
+
+/* Class = "UILabel"; text = "收藏"; ObjectID = "flT-HF-rw2"; */
+"flT-HF-rw2.text" = "收藏";
+
+/* Class = "UITextField"; placeholder = "请输入账号"; ObjectID = "fnw-1R-N75"; */
+"fnw-1R-N75.placeholder" = "请输入账号";
+
+/* Class = "UIButton"; normalTitle = "卡包"; ObjectID = "fp8-DN-vwf"; */
+"fp8-DN-vwf.normalTitle" = "卡包";
+
+/* Class = "UIButton"; normalTitle = "收藏"; ObjectID = "iS6-SP-eCQ"; */
+"iS6-SP-eCQ.normalTitle" = "收藏";
+
+/* Class = "UITabBarItem"; title = "首页"; ObjectID = "j5s-c6-0af"; */
+"j5s-c6-0af.title" = "首页";
+
+/* Class = "UILabel"; text = "密码"; ObjectID = "jGw-3I-vQS"; */
+"jGw-3I-vQS.text" = "密码";
+
+/* Class = "UILabel"; text = "登录"; ObjectID = "jXJ-9J-fTP"; */
+"jXJ-9J-fTP.text" = "登录";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "k5e-xl-Ys4"; */
+"k5e-xl-Ys4.text" = "Label";
+
+/* Class = "UILabel"; text = "关于"; ObjectID = "lRO-9X-GP4"; */
+"lRO-9X-GP4.text" = "关于";
+
+/* Class = "UITextField"; placeholder = "请输入密码"; ObjectID = "lvR-b7-iIX"; */
+"lvR-b7-iIX.placeholder" = "请输入密码";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nGZ-Ok-MM9"; */
+"nGZ-Ok-MM9.text" = "Label";
+
+/* Class = "UILabel"; text = "您现在可以收到即时新闻推送"; ObjectID = "p9A-Dn-pKO"; */
+"p9A-Dn-pKO.text" = "您现在可以收到即时新闻推送";
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "pc2-jI-QVs"; */
+"pc2-jI-QVs.normalTitle" = "登录";
+
+/* Class = "UILabel"; text = "v5.4.1"; ObjectID = "plP-mv-JGi"; */
+"plP-mv-JGi.text" = "v5.4.1";
+
+/* Class = "UIButton"; normalTitle = "积分商城"; ObjectID = "sK4-re-hqU"; */
+"sK4-re-hqU.normalTitle" = "积分商城";
+
+/* Class = "UIButton"; normalTitle = "常见问题"; ObjectID = "tGi-HP-wME"; */
+"tGi-HP-wME.normalTitle" = "常见问题";
+
+/* Class = "UIButton"; normalTitle = "问题反馈"; ObjectID = "to2-rf-0lJ"; */
+"to2-rf-0lJ.normalTitle" = "问题反馈";
+
+/* Class = "UITabBarItem"; title = "我的"; ObjectID = "u1Y-dN-N2p"; */
+"u1Y-dN-N2p.title" = "我的";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "urQ-E5-oaa"; */
+"urQ-E5-oaa.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uy3-qz-2tm"; */
+"uy3-qz-2tm.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "《新浪新闻用户协议》"; ObjectID = "v0l-Af-2aV"; */
+"v0l-Af-2aV.normalTitle" = "《新浪新闻用户协议》";
+
+/* Class = "UITextField"; placeholder = "请输入账号"; ObjectID = "xcb-N6-cku"; */
+"xcb-N6-cku.placeholder" = "请输入账号";
